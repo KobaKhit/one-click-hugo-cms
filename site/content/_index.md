@@ -10,12 +10,4 @@ blurb:
 intro:
   heading: What we offer
   text: What do we offer?
-products:
-  - image: img/illustrations-coffee.svg
-    text: We offer food
-  - image: /img/illustrations-coffee-gear.svg
-    text: We offer Love
-values:
-  heading: Our values
-  text: 'Our values are friendship, support, community and health.'
 ---
