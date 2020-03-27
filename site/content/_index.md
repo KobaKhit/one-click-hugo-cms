@@ -7,7 +7,4 @@ blurb:
   text: >-
     It is about cool stuff please can somebody point me to a paragraph that
     describes Shape I am In Project.
-intro:
-  heading: What we offer
-  text: What do we offer?
 ---
