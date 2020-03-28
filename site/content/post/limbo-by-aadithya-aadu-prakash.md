@@ -2,9 +2,7 @@
 title: Limbo by Aadithya (Aadu) Prakash
 date: 2020-03-28T19:13:54.638Z
 description: >
-  Born in San Jose, California, U.S.A. Currently Living in Seattle, Washington,
-  U.S.A
-
+  Seattle Hub, Washington, U.S.A / Born in San Jose, California, U.S.A. /
   Firmware Engineer
 ---
 I’m sitting on the couch, snuggling with the two family dogs, and listening to my dad on the phone trying to keep his company afloat. I hear things like “... once in a 100 year event.”, “... we need to tell them everything is alright.”, and “... I told them NOT to take us off their vendor list.” It’s distressing to hear my dad talk like this. He started his own company back in 2000, and throughout my entire childhood, he has poured his heart and soul into it. Not once did I feel neglected, but I knew that this company is basically his third kid.
