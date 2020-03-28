@@ -1,10 +1,14 @@
 ---
-title: The Shape I am In
-subtitle: A catchy inspiring quote
-image: /img/home-jumbotron.jpg
+title: The Shape I'm In
+subtitle: a collective diary by Global Shapers around the world
+image: img/blue-background.jpeg
 blurb:
-  heading: What is it about?
+  heading: ' '
   text: >-
-    It is about cool stuff please can somebody point me to a paragraph that
-    describes Shape I am In Project.
+    Shaken by the Covid-19 pandemic, we began a collective diary to share our
+    perspectives and memorialize a historic time. We spend much of our time
+    taking in information from the media, our leaders, our friends and family,
+    and strangers on the internet. Now, we turn inward to reflect upon our own
+    experiences and how the chaos has affected each of us. With many voices, we
+    hope to create a community through shared experiences around the world.
 ---
