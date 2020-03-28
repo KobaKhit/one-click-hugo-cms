@@ -1,6 +1,6 @@
 ---
 title: A Tick by Anonymous
-date: 2020-03-23T12:02:06.309Z
+date: 2020-03-22T12:02:06.309Z
 description: >-
   This is going to be “one hell of a” way to start a train of thought: I found a
   tick on my Johnson. I looked down to check what I thought was a scab a few
