@@ -1,10 +1,7 @@
 ---
 title: Stuck by Payton Hansen
 date: 2020-03-26T12:02:06.309Z
-description: >-
-  In April of last year, I traveled back to France from Madagascar. I was
-  previously living in Madagascar, but had met my now fiance in Paris and was
-  spending more time in her neck of the woods.
+description: 'Antananarivo Hub, Madagascar'
 ---
 In April of last year, I traveled back to France from Madagascar. I was previously living in Madagascar, but had met my now fiance in Paris and was spending more time in her neck of the woods. As our relationship developed, we switched off traveling back and forth from Salt Lake City (where I am originally from) and Tours (her home town 1 hour train ride South of Paris in the Loire Valley). I most recently spent 3 months in Tours from November to February, I came home on February 2nd never having even heard of COVID-19; crazy. My plan was to get my long stay visa here, and then return to France in April. Luckily, I was awarded my visa before everything shut down, but with all the worldwide closures, I am now stuck in the US.
 
