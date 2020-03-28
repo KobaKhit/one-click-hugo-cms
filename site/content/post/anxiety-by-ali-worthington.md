@@ -1,10 +1,9 @@
 ---
 title: Anxiety by Ali Worthington
 date: 2020-03-24T18:47:35.822Z
-description: |-
-  Philadelphia Hub
-  from New Jersey, U.S.A
-  UX Designer
+description: >-
+  Philadelphia Hub, Pennsylvania, U.S.A / Born in New Jersey, U.S.A / UX
+  Designer
 ---
 I’m not an anxious person. I move slowly, am not often stressed, do yoga, have scary low blood pressure, and benefit from many privileges. There is a 70% chance that I will contract it, and I am not at all worried about getting Covid-19. I am 28 years old, white, work in tech, am in great health, and live in a major American city. I will be fine. But I have never felt so many emotions for the state of the rest of the world. I’ve never been so anxious for others. The uncertainty that Covid-19 has brought to the entire world is debilitating.
 
