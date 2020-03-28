@@ -1,6 +1,6 @@
 ---
-title: Stuck
-date: 2020-03-28T12:02:06.309Z
+title: Stuck by Payton Hansen
+date: 2020-03-26T12:02:06.309Z
 description: >-
   In April of last year, I traveled back to France from Madagascar. I was
   previously living in Madagascar, but had met my now fiance in Paris and was
