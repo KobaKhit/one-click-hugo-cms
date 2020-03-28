@@ -1,7 +1,7 @@
 ---
 title: A Tick by Anonymous
 date: 2020-03-22T12:02:06.309Z
-description: 'Currently living in Philadelphia, PA'
+description: Philadelphia Hub
 ---
 This is going to be “one hell of a” way to start a train of thought: I found a tick on my Johnson. I looked down to check what I thought was a scab a few days ago and realized it was a deer tick. “How could you not know there was a tick on your penis?” “… and why would you have a scab on it?” Well, there’s a lot going on at the moment…
 
