@@ -1,28 +1,17 @@
 ---
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
-date: 2017-01-04T15:04:10.000Z
+title: A Tick
+date: 2020-03-28T14:04:10.000Z
 description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
+  This is going to be “one hell of a” way to start a train of thought: I found a
+  tick on my Johnson. I looked down to check what I thought was a scab a few
+  days ago and realized it was a deer tick
 ---
+This is going to be “one hell of a” way to start a train of thought: I found a tick on my Johnson. I looked down to check what I thought was a scab a few days ago and realized it was a deer tick. “How could you not know there was a tick on your penis?” “… and why would you have a scab on it?” Well, there’s a lot going on at the moment…
 
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
+This was Sunday (exactly one week ago). I was surprised when the doctor answered my call… she told me to come in the following day at 9AM. So there I was, at her office at 9AM. I walked in to the doctor’s on a Monday morning that followed a very long, anxious weekend. A national emergency was declared in the United States the Thursday before: the novel Coronavirus was now widely understood to be a global pandemic. The receptionist gave me a crazy look – I was the first person to wander into her office that morning. She told me the doctor wouldn’t be in until 2PM (as if it’s a typical Monday).
 
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
+It’s been years since my last doctors visit – my mother who is a regular visitor advised me to reach out to her doctor. On the phone, I was informed that their organization wouldn’t be accepting new patients for the next two months. Woah – so bad timing for a tick bite. I went to the Urgent Care in downtown West Chester, Pennsylvania. I approached the entrance and found a sign on the door: “Go back in your car and call this number.” That’s what I did – on the other end of the phone it was communicated to me that there were currently three people in there being tested for Coronavirus…. key back in the ignition.
 
-## A little history
+I was home staying with the parents for spring break… a 29 year old college boy (graduate school, research assistant in an energy economics program). I got a hold of health services in State College. They penciled me in for later that afternoon. I was concerned about Lyme disease – that thing had been latched on for at least 48 hours. Leaving was a big decision. If I left West Chester, I really didn’t know when I’d be coming back. But I did - drove west up to a ghost town – there should have been college kids roaming around the streets… seniors, in their prime, and eager to graduate… freshman kids developing crushes on one another…
 
-The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
-
->Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
-
-This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
-
-## What you need to know before trying
-
-Jamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classification of coffee grown in the Blue Mountains of Jamaica. The best lots of Blue Mountain coffee are noted for their mild flavor and lack of bitterness. Over the past few decades, this coffee has developed a reputation that has made it one of the most expensive and sought-after coffees in the world. Over 80% of all Jamaican Blue Mountain Coffee is exported to Japan. In addition to its use for brewed coffee, the beans are the flavor base of Tia Maria coffee liqueur.
-
-Jamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.
-
-The Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.
-
+Now here I am – alone in the middle of rural Pennsylvania; though I suppose it’s a good place to be considering there’s a global virus pandemic. Overall, I’m keeping busy and in relatively good spirits. I’m able to do research on my lap top. In the past week, we used a telepresence application to do our courses at the usual meeting times. But being here puts me in a tense situation with my girlfriend. She works in healthcare – speech language pathologist. The virus is a respiratory disease which can indirectly affect swallowing ability. So she’s going to be pretty busy as that’s her area of expertise. I want to support her as much as possible… I really would like to be there for her… and she wants me there. I think she is very brave. I’ve been wavering through optimism and pessimism the past few days. When I’m thinking optimistically, I tell her she’s going to be a part of a legendary class of medical professionals. When I tell her this, I don’t think it makes it any easier. She is pretty frightened to go in to work tomorrow… and I’m not that comfortable with it either. At the moment, I think I’m in the right place. I can’t get my parents sick if I unknowingly have the contagious virus. I can focus on school work here. I practiced “social distancing” all last semester (I don’t really know anyone up here other than classmates) so it’s not a big deal doing it now. We’ll see – I’m going to give it a few days before I make any big moves. When I think about the big picture, driving 150 miles to go into a major city at this time doesn’t feel right… but staying here definitely doesn’t either.
