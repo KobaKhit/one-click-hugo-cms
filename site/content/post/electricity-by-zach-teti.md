@@ -1,7 +1,7 @@
 ---
 title: Electricity by Zach Teti
 date: 2020-03-27T18:54:58.194Z
-description: 'Philadelphia Hub, Pennsylvania, U.S.A / Born in Pennsylvania, PA'
+description: 'Philadelphia Hub, Pennsylvania, U.S.A'
 ---
 The current state of technology is really impressive. It has to be a leading contributor in whatever has enabled humanity to be able to ban together in this mass quarantine. It could be argued that modern technology hadn’t been fully utilized prior to this widespread order. This week, one third of the human population had some sort of local travel restriction. While I don’t see how this could be something that is aggregately monitored, it is so extraordinary that this policy had been jointly put into effect across nations: two billion human beings in their homes. (And) while I can’t speak to the pressure this policy has put on things like “the cloud”, the past few weeks have seen an unprecedented roll-out of use in technological amenities. Data and information sharing is so seamless – and personally, now that it is something I am reliant upon as a researcher, I’m witnessing myself and my colleagues become very skilled in the coordination of information sharing through digital channels.
 
