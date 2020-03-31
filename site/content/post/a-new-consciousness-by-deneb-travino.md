@@ -1,5 +1,5 @@
 ---
-title: A New Consciousness by Deneb Travino
+title: A New Consciousness by Deneb Treviño
 date: 2020-03-31T01:22:21.155Z
 description: 'Monterrey Hub, Mexico'
 ---
