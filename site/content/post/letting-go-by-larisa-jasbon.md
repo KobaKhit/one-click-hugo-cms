@@ -1,6 +1,6 @@
 ---
 title: Letting Go by Larisa Jasbon
-date: 2020-04-10T00:50:57.691Z
+date: 2020-04-09T18:50:00.000Z
 description: 'Cartagena Hub, Colombia'
 ---
 COVID19 has not only limited our freedom of movement but changed every plan we had for 2020. And change is not necessarily painful, but resisting it definitely is. What do you mean my trip to Brazil is cancelled? The first feeling I had was impotence. Aren't people overreacting?
