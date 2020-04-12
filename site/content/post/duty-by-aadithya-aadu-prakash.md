@@ -3,7 +3,7 @@ title: Duty by Aadithya (Aadu) Prakash
 date: 2020-04-12T02:04:40.011Z
 description: |
   Seattle Hub, Washington, USA
-  Originally from in San Jose, California, USA
+  Originally from San Jose, California, USA
 ---
 I was walking through the Arboretum here in Seattle when I saw a Barred Owl in plain sight. It looked like a little plush toy, quietly roosting and awaiting the darkening skies. This was the 5th barred owl that I had seen in broad daylight since the shelter-in-place mandate had been issued here in Washington. And it’s not just the owls. Tons of birds and animals are poking their heads out of their hidey holes as we humans enter ours. It made me reconsider the idea of doing a Big Year.
 
