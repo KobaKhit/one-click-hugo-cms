@@ -1,6 +1,6 @@
 ---
 title: Digital Rituals by Troy Hodges
-date: 2020-04-19T21:34:45.075Z
+date: 2020-04-18T21:34:45.075Z
 description: |
   Washington, DC Hub, USA
   Originally from California, USA
