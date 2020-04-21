@@ -1,8 +1,7 @@
 ---
-title: Fostering Volunteerism
+title: Fostering Volunteerism by Greg Donworth
 date: 2020-04-21T03:54:29.473Z
 description: |-
-  Greg Donworth
   Philadelphia Hub, Pennsylvania, USA
   Originally from Saratoga Springs, NY
 ---
