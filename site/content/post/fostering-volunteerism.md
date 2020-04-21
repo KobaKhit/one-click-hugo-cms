@@ -21,4 +21,14 @@ When looking at how volunteering affects a volunteer's physical and mental healt
 
 Volunteering is a true win-win. Our communities need our support, and we (especially now) need the positive benefits that volunteering can provide. By using behavioral principles such as the few outlined above, we can continue to build off of our new behaviors and the increased need for a livelihood that COVID-19 has caused. Let’s continue to vocalize support for our volunteers, and in-turn help to spread the act of volunteering for years to come.
 
+
+
+Bibliography:
+
+1. Thoits, P., & Hewitt, L. (2001). Volunteer Work and Well-Being.Journal of Health and Social Behavior,42(2), 115-131. Retrieved April 21, 2020, from[www.jstor.org/stable/3090173](http://www.jstor.org/stable/3090173)
+2. Omoto, Allen M. and Mark Snyder. 1990. "Basic Research in Action: Volunteerism and Society's Responses to AIDS." Personality and Social Psychology Bulletin 16:152-56.
+3. Omoto, Allen M. and Mark Snyder. 1995. "Sustained Helping without Obligation: Motivation, Longevity of Service, and Perceived Attitude Change among AIDS Volunteers." Journal of Personality and Social Psychology 68:671-87.
+4. Janoski, Thomas, Marc Musick, and John Wilson. 1998. "Being Volunteered? The Impact of Social Participation and Pro-Social Attitudes on Volunteering." Sociological Forum 13:495-519
+5. A. Cottrell, (2010) Research report: a survey of spontaneous volunteers. Australian Red Cross, Carlton. http://www.redcross.org.au/files/ES0-Research_report.pdf (last accessed 19.07.2015)
+
 <!--EndFragment-->
