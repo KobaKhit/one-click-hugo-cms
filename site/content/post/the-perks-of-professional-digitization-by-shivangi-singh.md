@@ -1,6 +1,6 @@
 ---
 title: The Perks of Professional Digitization by Shivangi Singh
-date: 2020-04-25T13:57:00.000Z
+date: 2020-04-28T13:57:00.000Z
 description: 'Indore Hub, India'
 ---
 I recently came across a meme. It depicted two people having a conversation which went as follows. *Person A: Who led the digital transformation of your company?*\
