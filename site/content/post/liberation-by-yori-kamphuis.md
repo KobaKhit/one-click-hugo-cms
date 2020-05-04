@@ -3,7 +3,7 @@ title: Liberation by Yori Kamphuis
 date: 2020-05-04T16:27:00.000Z
 description: 'Amsterdam Hub alumnus, The Netherlands'
 ---
-Today, the 4thof May, is our Remembrance of the Dead. We commemorate everybody from our Kingdom who has died in wars or peacekeeping missions since the start of World War II. Flags hung half-mast. The national ceremony on the Dam in Amsterdam, attended annually by our king and queen, together with thousands of other people, will be an impressive sober equivalent this year.
+Today, the 4th of May, is our Remembrance of the Dead. We commemorate everybody from our Kingdom who has died in wars or peacekeeping missions since the start of World War II. Flags hung half-mast. The national ceremony on the Dam in Amsterdam, attended annually by our king and queen, together with thousands of other people, will be an impressive sober equivalent this year.
 
 Because this year it’s different. The king and queen will still be there, together with only a handful of other people. It’s an adaptation of our former life to what we’ve started to call the ‘one-and-a-half-meter economy’: figuring out how to live while maintaining the 1.5 meters distance between us. Essential shopping and sports are fine. Group gatherings of 3 and more are not.
 
