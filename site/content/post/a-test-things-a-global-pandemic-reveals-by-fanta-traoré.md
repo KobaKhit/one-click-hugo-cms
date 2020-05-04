@@ -1,6 +1,6 @@
 ---
 title: a test - things a global pandemic reveals by Fanta Traoré
-date: 2020-05-04T01:29:36.425Z
+date: 2020-05-02T13:29:00.000Z
 description: |
   Washington, DC Hub, USA
   Originally from New York, USA and Mali, Africa
