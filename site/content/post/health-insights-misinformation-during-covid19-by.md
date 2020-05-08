@@ -1,5 +1,5 @@
 ---
-title: 'Health Insights, Misinformation during #Covid19 by '
+title: 'Health Insights, Misinformation during #Covid19 by Emmanuel Agbeko Gamor'
 date: 2020-05-08T22:16:15.110Z
 description: |-
   Accra Hub, Ghana 
