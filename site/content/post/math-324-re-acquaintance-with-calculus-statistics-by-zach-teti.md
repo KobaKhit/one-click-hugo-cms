@@ -1,5 +1,5 @@
 ---
-title: MATH 324 Re-acquaintance with Calculus & Statistics by Zach Teti
+title: MATH 324 Re-Acquaintance with Calculus & Statistics by Zach Teti
 date: 2020-05-09T16:23:27.010Z
 description: From the United States of America
 ---
