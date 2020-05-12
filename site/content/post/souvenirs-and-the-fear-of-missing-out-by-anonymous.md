@@ -3,7 +3,7 @@ title: Souvenirs and the Fear of Missing Out by Anonymous
 date: 2020-04-27T17:24:52.996Z
 description: From the USA
 ---
-The grief I’ve felt during this quarantine process has come and gone like a virus itself… if I’m not busy; it can permeate into my whole morning, afternoon, and/or evening. What is it that I grieve? There is an infectious disease that sounds like a monstrous experience… a monstrous experience if it leads to death or not. From a medical standpoint, it’s novel, but not completely unprecedented… there have been “new” influenzas in history… AIDS infiltrated humanity. It’s an infection that’s finding a home in human lungs… but for some reason, it’s seemed to make *everything* outside our door toxic as well.
+The grief I’ve felt during this quarantine process has come and gone like a virus itself… if I’m not busy; it can permeate into my whole morning, afternoon, and/or evening. What is it that I grieve? There is an infectious disease  out there that sounds like a monstrous experience… a monstrous experience if it leads to death or not. From a medical standpoint, it’s novel, but not completely unprecedented… there have been “new” influenzas in history… AIDS infiltrated humanity. It’s an infection that’s finding a home in human lungs… but for some reason, it’s seemed to make *everything* outside our door toxic as well.
 
 Maybe the world was in need of a good scrubbin’ any way – there are some pretty filthy cities out there… I know I live in one. The mayor signed a clean-up plan that looked forward a whole fuckin’ decade… a collective, concerted effort might be able to “wrap it up” in a few months.
 
