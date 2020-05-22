@@ -1,5 +1,5 @@
 ---
-title: '"Who Knew?!" by John J.J Dongo'
+title: Who Knew?! by John J.J Dongo
 date: 2020-05-22T12:33:45.617Z
 description: 'Harare Hub, Zimbabwe'
 ---
