@@ -1,6 +1,6 @@
 ---
 title: With a strengthened spirit by Jodie Padilla
-date: 2020-05-22T00:51:20.985Z
+date: 2020-05-21T00:51:20.985Z
 description: |-
   Guayaquil Hub, Ecuador
   Originally from Guayaquil, Guayas, Ecuador
