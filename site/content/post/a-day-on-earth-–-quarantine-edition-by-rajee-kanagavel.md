@@ -3,7 +3,7 @@ title: A Day on Earth – Quarantine Edition by Rajee Kanagavel
 date: 2020-05-25T14:10:00.000Z
 description: |
   Washington DC Hub, USA
-  Originally from in Chennai, India
+  Originally from Chennai, India
 ---
 **Vancouver, Canada 5.00 AM**
 
@@ -11,7 +11,7 @@ Although Mahdi had been trained well to function in the face of uncertainty, thi
 
 **New York, USA 8.00 AM**
 
-Across the country and around the world, non-essential businesses, workplaces and schools closed, and public gatherings prohibited. All the cancelled events were just another news story to Darren until a week ago when his own graduation ceremony cancellation was officially announced. Soon after, he received his flight cancellation email and now had to defend his Master thesis via Zoom. Today was the day he was supposed to fly to South Africa, which he had been planning for nearly a year with his friends. He woke up to his hotel reservation cancellation. “My entire morning is ruined,” Darren thought, falling into a deep dark vortex of emotions tinged with a bit of melancholy and a good measure of rage. A week full of workouts, video games, and Netflix binges passed – yet he is baffled with what to do with this newly found luxury – time.
+Across the country and around the world, non-essential businesses, workplaces and schools closed, and public gatherings prohibited. All the cancelled events were just another news story to Darren until a week ago when his own graduation ceremony cancellation was officially announced. Soon after, he received his flight cancellation email and now had to defend his Master thesis via Zoom. Today was the day he was supposed to fly to South Africa, which he had been planning for nearly a year with his friends. He woke up to his hostel reservation cancellation. “My entire morning is ruined,” Darren thought, falling into a deep dark vortex of emotions tinged with a bit of melancholy and a good measure of rage. A week full of workouts, video games, and Netflix binges passed – yet he is baffled with what to do with this newly found luxury – time.
 
 **Belo Horizonte, Brazil 9.00 AM**
 
@@ -37,4 +37,4 @@ Work has been inordinately hectic this past month. Being a health scientist, the
 
 At 86 years, George’s idea of being too young to be living in a nursing home flew out the window when he decided to move to the Care Village in Rotorua in New Zealand to be closer to his longtime friend Sally. They made plans together – go fishing at the lake, visit Redwood forests where they used to hike in their 20s, and savour their favourite mussels. Recently, however, he received the news that Sally had contracted the novel coronavirus. George was no longer sure about when he would be able to see her next or whether he will be seeing her at all with his emigration papers pending for an indefinite period. Although his time and mind were occupied with gardening all day, when he finally went to rest, ever cheerful George found that trying to fall asleep was a futile effort. He went to check on his tomato plants on the front porch and came across a letter on the stoop – his 5-year-old neighbour had come by to check on him and had written about her quarantine life. This moment of connectedness filled him with an enormous sense of hope and love.
 
-\**Inspired by true life events and people*
+*Inspired by true life events and people*
